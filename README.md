@@ -8,7 +8,7 @@ In my life I have played many different sports at different times and some sport
 Over the summer I didn't do as much as I was hoping for but I still had some eventful days. I had a trip to Las vegas for one of my basketball tournaments. Me and my family stayed at Red Rock hotel and stayed for 4 days total. I ended up winning my tournament and had a fun stay. 
 
 # Playlist
-
+https://open.spotify.com/playlist/2LuzaEvpfk7rPhn72ijOWJ
 
 # Collage
 ![this is my collage](collage.png)
