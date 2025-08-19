@@ -11,3 +11,4 @@ Over the summer I didn't do as much as I was hoping for but I still had some eve
 
 
 # Collage
+![this is my collage](collage.png)
